@@ -13,6 +13,15 @@ import { Component7Component } from './component7/component7.component';
 import { Component8Component } from './component8/component8.component';
 import { Component9Component } from './component9/component9.component';
 import { Component10Component } from './component10/component10.component';
+import { Component12Component } from './component12/component12.component';
+import { Component13Component } from './component13/component13.component';
+import { Component14Component } from './component14/component14.component';
+import { Component15Component } from './component15/component15.component';
+import { Component16Component } from './component16/component16.component';
+import { Component17Component } from './component17/component17.component';
+import { Component18Component } from './component18/component18.component';
+import { Component19Component } from './component19/component19.component';
+import { Component20Component } from './component20/component20.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +35,16 @@ import { Component10Component } from './component10/component10.component';
     Component7Component,
     Component8Component,
     Component9Component,
-    Component10Component
+    Component10Component,
+    Component12Component,
+    Component13Component,
+    Component14Component,
+    Component15Component,
+    Component16Component,
+    Component17Component,
+    Component18Component,
+    Component19Component,
+    Component20Component
   ],
   imports: [
     BrowserModule,
